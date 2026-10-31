@@ -1,0 +1,3 @@
+timestamp,username,source_ip,destination_ip,file_name,file_size_mb,transfer_status
+2026-10-31 04:18:10,rwilson,192.168.1.105,203.0.113.88,financial_records_Q3.zip,450.2,SUCCESS
+2026-10-31 04:22:00,rwilson,192.168.1.105,203.0.113.88,customer_database_dump.sql,1200.5,SUCCESS

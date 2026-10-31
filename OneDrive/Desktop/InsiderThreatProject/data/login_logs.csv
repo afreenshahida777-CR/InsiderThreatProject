@@ -1,0 +1,8 @@
+timestamp,username,ip_address,login_status,failure_reason,location
+2026-10-31 01:15:22,jdoe,192.168.1.50,SUCCESS,,Local Office
+2026-10-31 02:42:10,asmith,10.0.0.15,SUCCESS,,Local Office
+2026-10-31 03:12:05,jdoe,192.168.1.50,FAILURE,Invalid Password,Local Office
+2026-10-31 03:12:18,jdoe,192.168.1.50,FAILURE,Invalid Password,Local Office
+2026-10-31 03:12:30,jdoe,192.168.1.50,SUCCESS,,Local Office
+2026-10-31 04:05:11,rwilson,203.0.113.45,SUCCESS,,Foreign IP - Suspicious
+2026-10-31 04:30:00,admin,192.168.1.1,SUCCESS,,Local Office

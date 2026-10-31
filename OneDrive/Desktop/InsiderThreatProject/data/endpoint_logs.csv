@@ -1,0 +1,5 @@
+timestamp,username,device_name,process_name,action,details
+2026-10-31 02:10:00,jdoe,WS-DESKTOP-01,powershell.exe,EXECUTION,Script executed: invoke-mimikatz
+2026-10-31 03:00:15,asmith,WS-LAPTOP-04,chrome.exe,ACCESS,Accessed internal HR database
+2026-10-31 04:12:00,rwilson,WS-REMOTE-12,winrar.exe,ARCHIVE,Created compressed archive of sensitive files
+2026-10-31 04:15:30,rwilson,WS-REMOTE-12,upload.exe,TRANSFER,Outbound connection to external cloud storage
